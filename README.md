@@ -35,12 +35,15 @@ Practical notebooks for the SciML workshop
 * Wait a minute or two for your environment to load.
 
 ## Credits
-Keith Butler, Kuangdai Leng, Sam Jackson, Jaehoon Cha, Susmita Basak, Yeung Siu-Lun, Margaret Duff, Jeyan Thiyagalingam
+Keith Butler, Kuangdai Leng, Sam Jackson, Jaehoon Cha, Susmita Basak, Yeung Siu-Lun, Margaret Duff, Jeyan Thiyagalingam, Bhumika Mistry
 
 *Scientific Machine Learning (SciML) Group, Scientific Computing Department, Science and Technology Facilities Council* 
 
 
 #### Authors of modules
+
+* LSTM: Bhumika Mistry
+* GAN: Bhumika Mistry
 
 In progress.
 
