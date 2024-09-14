@@ -44,8 +44,12 @@ Keith Butler, Kuangdai Leng, Sam Jackson, Jaehoon Cha, Susmita Basak, Yeung Siu-
 
 * LSTM: Bhumika Mistry
 * GAN: Bhumika Mistry
+* DNN: Niraj Bhujel
+* CNN: Niraj Bhujel
+* AE: Niraj Bhujel 
 
-In progress.
+In progress ....
+
 
 #### Thanks to
 
