@@ -126,3 +126,7 @@ dmypy.json
 Sciml-workshop-data/
 .DS_Store
 .idea
+
+# data
+**/data/
+data/
