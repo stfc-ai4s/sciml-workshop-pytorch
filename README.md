@@ -42,11 +42,11 @@ Keith Butler, Kuangdai Leng, Sam Jackson, Jaehoon Cha, Susmita Basak, Yeung Siu-
 
 #### Authors of modules
 
-* LSTM: Bhumika Mistry
-* GAN: Bhumika Mistry
 * DNN: Niraj Bhujel
 * CNN: Niraj Bhujel
 * AE: Niraj Bhujel 
+* LSTM: Bhumika Mistry
+* GAN: Bhumika Mistry
 
 In progress ....
 
